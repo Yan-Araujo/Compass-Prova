@@ -20,6 +20,11 @@
 
     3. Explique de forma sucinta, o fluxo e envio de um arquivo novo para o repositório do projeto.
 
+        - Abrir o terminal;
+        - Navegar usando o comando cd + nome da pasta
+          até a chegar na pasta onde será criado o repositório;
+        -    
+
     4. Descreva sobre os ganhos de se utilizar a funcionalidade da branch do git.
 
         - Branches, ou ramificações, possibilitam que múltiplos desenvolvedores trabalhem no mesmo 
