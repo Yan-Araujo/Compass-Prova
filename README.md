@@ -44,6 +44,9 @@
 
     5. Explique a diferença entre criar o repositório na nuvem e iniciar o repositório a partir de um código existente local.
 
+        - Com o repositório na nuvem, conseguimos disponi-
+          bilizar nosso arquivo para um número maior de pessoas diferente do repositório local que fica limitado ao servidor local  
+
     6. Qual a diferença entre Git e GitHub?
 
       - Git é um sistema de controle de versões
