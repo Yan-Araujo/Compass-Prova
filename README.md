@@ -21,9 +21,19 @@
     3. Explique de forma sucinta, o fluxo e envio de um arquivo novo para o repositório do projeto.
 
         - Abrir o terminal;
+        
         - Navegar usando o comando cd + nome da pasta
           até a chegar na pasta onde será criado o repositório;
-        -    
+        
+        - Usar o comando "git init" para iniciar o repositório;
+        
+        - Criar um arquivo dentro do repositório para ser editado;
+        
+        - Escrever o código e salvar o mesmo;
+        
+        - Voltar para o terminal e usar o comando "git add ." ou git add "nome do arquivo";
+        
+        - Usar o comando git commit -m para poder commitar e adicionar uma descrição ao Commit.
 
     4. Descreva sobre os ganhos de se utilizar a funcionalidade da branch do git.
 
@@ -57,8 +67,11 @@
          zação.
 
     8. Quais são as 3 perguntas que devem ser respondidas na Daily?
+       
        - O que eu fiz desde a última Daily?
+       
        - O que eu pretendo fazer até a próxima Daily?
+       
        - Houve algum Contratempo?
 
 
@@ -67,20 +80,31 @@
        - Daily: Timebox de no máximo 15 minutos onde cada
          integrante da equipe de desenvolvimento diz o 
          seu progresso, o que pretende fazer até a 
-         próxima Daily e se houve algum impedimento 
+         próxima Daily e se houve algum impedimento;
         
-       - Planning: 
+       - Planning: Timebox onde se é repassado os itens da
+         product backlog para todo o time e se é definido
+         a meta da Sprint;
+ 
+       - Refinamento: É quando o Product Owner quebra as
+         histórias em sub-items menores para que a equipe
+         de desenvolvimento possa estimar a quantidade de
+         esforço que será necessária para aquela tarefa;
         
-       - Refinamento: 
-        
-       - Review: Timebox onde é mostrado ao cliente os resultados da Sprint
+       - Review: Timebox onde é mostrado ao cliente os
+         resultados da Sprint;
         
        - Retrospectiva: Timebox onde se é avaliado como 
          foi o decorrer da Sprint. Também é o momento
          onde se é exposto os problemas que ocorreram
-         durante a Sprint 
+         durante a Sprint. 
 
     10. O que é a estimativa na metodologia ágil?
+
+       - Estimativa é quando os desenvolvedores, após o
+         Product Owner passar o item do topo do Product
+         Backlog, averiguam o para pode estimar o quando
+         de esforço precisará ser realizado nessa tarefa.
 
 ## Tema: Fundamentos HTTP
 
